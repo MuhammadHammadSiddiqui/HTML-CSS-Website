@@ -1,0 +1,220 @@
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 5px;
+  overflow: hidden;
+  background-color: black;
+}
+
+li{
+    float: left;
+}
+
+li a{
+   display: block;
+   color: white;
+   font-weight: 900;
+   padding: 15px 20px;
+   text-decoration: none;
+}
+
+li a:hover{
+    background-color: #2e6975;
+}
+
+.fix{
+    margin-top: -7px;
+}
+
+.header-img{
+    margin-top: 0px;
+}
+
+.back{
+    background-color: #3d0f22;
+    width: 100%;
+    height: 1130px;
+    float: left;
+    margin-top: -3.1px;
+}
+
+.head{
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 100px;
+    float: left;   
+}
+.sub-head{
+    text-align: center;
+    padding-top: 7px;
+}
+
+.img{
+    padding-top: 6px;
+    margin-left: 20px;
+}
+
+.insp{
+    margin-left: 100px;
+}
+.para{
+    margin-left: 15px;
+}
+
+.img2{
+    padding-top: 30px;
+    margin-left: 555px;
+}
+.insp1{
+    margin-left: 610px;
+}
+
+.para1{
+    margin-left: 320px;
+}
+.list1{
+  margin-left: 460px;
+}
+
+.img1{
+    margin-left: 480px;
+}
+
+.back1{
+    background-color: black;
+    width: 100%;
+    height: 565px;
+    float: left;
+    margin-top: 1px;
+   
+}
+.head1{
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    float: left;
+    color: white;
+    padding-top: 10px;
+    text-align: center; 
+}
+
+
+.back2{
+    background-color: 
+    #231f3d
+    ;
+    height: 600px;
+    width: 100%;
+    float: left;
+    margin-top: 1px;
+    border: 2.5px solid black; 
+}
+
+.head2{
+    background-color: black;
+    float: left;
+    height: 100px;
+    width: 100%;
+}
+
+.heading2{
+    color: white;
+    padding: 2px 10px;
+    text-align: center;
+    justify-content: center;
+ }
+
+
+
+ #contact-form{
+    height: 500px;
+    width: 100%;
+    float: left;
+    background-image: url('images/cont.jpg');
+    background-size: cover;
+    margin-left: -275px;
+  }
+  
+  #center-box{
+    height: 420px;
+    width: 700px;
+    margin-left: 500px;
+    margin-top: 40px;
+  }
+  
+  #left{
+    height: 400px;
+    width: 350px;
+    float: left;
+    background-color:#010d12;
+    padding-top: 20px;
+  }
+  
+  #right{
+    height: 420px;
+    width: 350px;
+    float: left;
+    background-color: #e6e6e6;
+  }
+  
+  /* Style inputs with type="text", select elements and textareas */
+  input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */ 
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+  }
+  
+  /* Style the submit button with a specific background color etc */
+  input[type=submit] {
+    background-color: #3d0f22;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* When moving the mouse over the submit button, add a darker green color */
+  input[type=submit]:hover {
+    background-color: black;
+  }
+  
+  /* Add a background color and some padding around the form */
+  .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  #cont-head{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin-top: 20xp;
+  }
+
+
+  .back3{
+    background-color:black;
+    height: 100px;
+    width: 100%;
+    float: left;
+    margin-top: -5px;
+    margin-left: -2.5px;
+    border: 2.5px solid black; 
+  
+}
+
+.footer{
+    padding: 40px 0;
+    color: white;
+    text-align: center;
+   text-decoration: none;
+}
+
